@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1DXuWkDBF5-X16pHgGxOMxR-9_P5Ho_s9/view?usp=drive_link" />
+  ![Banner](https://raw.githubusercontent.com/Rafael-Aguayo/Rafael-Aguayo/main/ChatGPT%20Image%2025%20nov%202025%2C%2007_35_24%20a.m..png)
+
 </p>
 
 # 👋 Sobre mí  
