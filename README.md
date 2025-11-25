@@ -1,5 +1,6 @@
 <p align="center">
-  ![Banner](https://raw.githubusercontent.com/Rafael-Aguayo/Rafael-Aguayo/main/ChatGPT%20Image%2025%20nov%202025%2C%2007_35_24%20a.m..png)
+ <img src="encabezado.png" width="40%" alt="Rafael Aguayo">
+</p>
 
 </p>
 
