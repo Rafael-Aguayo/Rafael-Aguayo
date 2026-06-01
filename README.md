@@ -1,5 +1,5 @@
 <p align="center">
- <img src="port.jpg" width="40%" alt="Rafael Aguayo">
+ <img src="port.jpeg" width="40%" alt="Rafael Aguayo">
 </p>
 
 </p>
